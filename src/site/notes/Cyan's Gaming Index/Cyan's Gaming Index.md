@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cyan's Gaming Index.md","permalink":"/cyan-s-gaming-index/","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Cyan's Gaming Index.md","permalink":"/cyan-s-gaming-index/","tags":["gardenEntry"]}
 ---
 
 ## Welcome
