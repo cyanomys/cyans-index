@@ -21,6 +21,14 @@ body {
         width: 17%;
         min-width: 250px;
         border-radius:0px 15px 15px 0px;
+        top: 5px;
+        left: 20px;
+        position: fixed;
+        height: calc(97%);
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+        overflow-x: hidden;
         h1 {
             font-size: 24px !important;
         }
@@ -34,17 +42,6 @@ body {
                 background-image: url(https:i.imgur.com/NalfH3E.png);
                 background-position: center;
         }
-    }
-
-    nav.filetree-sidebar {
-        top: 5px;
-        left: 20px;
-        position: fixed;
-        height: calc(97%);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
-        overflow-x: hidden;
 
         .search-button {
             margin: 10px;
