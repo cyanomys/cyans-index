@@ -36,18 +36,15 @@ body {
             a::before {
                 margin-right: 2px;
             }
-        }
+}
 
-        .notelink.active-note {
-            transform: unset;
-        }
+.notelink.active-note {
+    transform: unset;
+}
 
 .sidebar {
     width: 17%;
     min-width: 250px;
 }
 
-:root {
-    --h1-color: var(--interactive-accent);
-}
 
