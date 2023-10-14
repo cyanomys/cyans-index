@@ -7,7 +7,10 @@ body {
     //  .content {
     //   font-size: 14px;
     //  }
-    h1 {
-     color: #7affff;
-    }
+    //h1 {
+    // color: #7affff;
+    //}
+}
+.theme-dark {
+    --text-accent: #7affff !important;
 }
