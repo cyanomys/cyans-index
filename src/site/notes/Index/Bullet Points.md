@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Bullet Points.md","permalink":"//bullet-points/","created":"2023-10-13T16:55:44.000-04:00","updated":"2023-10-28T22:05:33.822-04:00"}
+{"dg-publish":true,"dg-path":"Bullet Points.md","permalink":"/bullet-points/","created":"2023-10-13T16:55:44.000-04:00","updated":"2023-10-28T22:05:33.822-04:00"}
 ---
 
 
