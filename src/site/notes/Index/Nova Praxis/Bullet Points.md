@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Nova Praxis/Bullet Points.md","permalink":"/nova-praxis/bullet-points/","created":"2023-10-13T16:55:44.000-04:00","updated":"2023-10-28T22:27:09.462-04:00"}
+{"dg-publish":true,"dg-path":"Nova Praxis/Bullet Points.md","permalink":"/nova-praxis/bullet-points/","created":"2023-10-13T16:55:44.000-04:00","updated":"2023-10-28T23:18:50.433-04:00"}
 ---
 
+# Bullet Points
 ## Introduction
 Hi! This is Taylre. I rewrote parts of the bullet points section from the Nova Praxis book. Here it is! All the parts under italicized headings are to varying extents rewritten. If a section is mostly the same except for a thing here or there I bolded/italicized the new different thing.
 
