@@ -10,11 +10,11 @@ body {
     
     h1, h2, h3, h4, h5, h6
     {
-    font-family: Fraunces;
+    font-family: "Fraunces";
     }
     
     .filetree-sidebar {
-        width: 17%;
+        width: 20%;
         min-width: 250px;
         border-radius:0px 15px 15px 0px;
         top: 5px;
@@ -38,10 +38,5 @@ body {
                 background-image: url(https:i.imgur.com/NalfH3E.png);
                 background-position: center;
         }
-    }
-    
-    .sidebar {
-        width: 17%;
-        min-width: 250px;
     }
 }
