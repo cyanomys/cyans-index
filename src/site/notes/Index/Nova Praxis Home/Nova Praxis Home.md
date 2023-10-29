@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Nova Praxis Home/Nova Praxis Home.md","dg-permalink":"\"nova-praxis\"","permalink":"/\"nova-praxis\"/","pinned":true,"updated":"2023-10-29T14:05:03.379-04:00"}
+{"dg-publish":true,"dg-path":"Nova Praxis Home/Nova Praxis Home.md","dg-permalink":"\"nova-praxis\"","permalink":"/\"nova-praxis\"/","pinned":true,"updated":"2023-10-29T14:06:05.547-04:00"}
 ---
 
 ### Pages
