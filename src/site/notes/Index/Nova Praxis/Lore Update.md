@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Nova Praxis/Lore Update.md","permalink":"/nova-praxis/lore-update/","updated":"2023-10-28T23:21:47.459-04:00"}
+{"dg-publish":true,"dg-path":"Nova Praxis/Lore Update.md","permalink":"/nova-praxis/lore-update/","updated":"2023-10-29T14:13:28.997-04:00"}
 ---
 
 ## Introduction
-Hi! This is Taylre. I rewrote parts of the bullet points section from the Nova Praxis book. Here it is! All the parts under italicized headings are to varying extents rewritten. If a section is mostly the same except for a thing here or there I bolded/italicized the new different thing.
+Hi! This is Taylre. I rewrote parts of the bullet points section from the Nova Praxis book. Here it is! All the parts under italicized headings are to varying extents rewritten. If a section is mostly the same except for a thing here or there I bolded/italicized the new different thing. 
+
+You can find the same stuff commented in the Nova Praxis PDF in the google drive folder.
 
 ## *Earth Lost It’s Way* 
 Most of humanity has left earth behind. 
