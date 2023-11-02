@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Nova Praxis/Nova Praxis.md","dg-permalink":"nova-praxis","permalink":"/nova-praxis/","pinned":true,"updated":"2023-10-29T14:06:57.996-04:00"}
+{"dg-publish":true,"dg-path":"Nova Praxis/Nova Praxis.md","dg-permalink":"nova-praxis","permalink":"/nova-praxis/","pinned":true,"updated":"2023-11-01T23:08:19.725-04:00"}
 ---
 
 ### Pages
 
 - **Campaign Log**
-- [[Index/Nova Praxis/Lore Update\|Lore Update]]
+- **Lore**
+	- [[Index/Nova Praxis/Lore/Agendas\|Agendas]]
+	- [[Index/Nova Praxis/Lore/Timeline of Future Past\|Timeline of Future Past]]
+	- [[Index/Nova Praxis/Lore/Vibes\|Vibes]]
 
 
 ### Links
