@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","pinned":true,"updated":"2023-11-02T17:53:09.923-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","pinned":true,"updated":"2023-11-02T18:02:18.061-04:00"}
 ---
 
 ### Pages
 
 - **Campaign Log**
 - **Lore**
-	- [[Index/Neon Soul/Lore/Agendas\|Agendas]]
 	- [[Index/Neon Soul/Lore/Bullet Points\|Bullet Points]]
-	- [[Index/Neon Soul/Lore/Old Lore\|Old Lore]]
 	- [[Index/Neon Soul/Lore/Overview\|Overview]]
 	- [[Index/Neon Soul/Lore/Timeline of Future Past\|Timeline of Future Past]]
 
