@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/Lore/Overview.md","permalink":"/neon-soul/lore/overview/","updated":"2023-11-02T17:55:13.511-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/Lore/Overview.md","permalink":"/neon-soul/lore/overview/","updated":"2023-11-02T18:01:48.913-04:00"}
 ---
 
 Let's say you just woke up from being cryogenically frozen in 2023, and it's 2223. Here's what you'll need to know.
@@ -249,3 +249,6 @@ Neptune, a chilly ice giant, isn't much of a hotspot itself. However, its arcs a
 - **Notable for:** Last Coalition colony, home to descendants of Earth's Chinese populace.
 - **Key Locations:** Icarus Hub Market, Feiwode Fields, Zhanshi Post.
 - **Current Events:** Security breaches and a secretive faction with a tiger wasp emblem potentially trading Vulcan swarms
+
+# Conflict
+#WIP 
