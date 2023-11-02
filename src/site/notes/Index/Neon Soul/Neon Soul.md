@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","pinned":true,"updated":"2023-11-02T18:02:18.061-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","pinned":true,"updated":"2023-11-02T18:07:51.507-04:00"}
 ---
 
 ### Pages
