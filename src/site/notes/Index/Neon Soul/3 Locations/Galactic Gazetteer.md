@@ -1,14 +1,82 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/3 Locations/Galactic Gazetteer.md","permalink":"/neon-soul/3-locations/galactic-gazetteer/","updated":"2023-11-03T00:06:13.806-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/3 Locations/Galactic Gazetteer.md","permalink":"/neon-soul/3-locations/galactic-gazetteer/","updated":"2023-11-03T00:19:47.516-04:00"}
 ---
 
 ![Nova Praxis Map.png](/img/user/Attachments/Nova%20Praxis%20Map.png)
+# Sol
+## Mercury
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-Since our first steps on Mars in 2034, the planet has seen a mix of achievements and challenges. From the impressive Olympus to the gritty streets of New Turin, Mars is certainly a showcase of the breadth of human experience. With the recent purist terror incident in Voltair, it's sparked a whole debate about ethics and identity in this new era.
+Mercury's got some cool spots like solar fields and antimatter hubs. The Coalition had a big showdown with Earth's leftovers at Tellerus Fields. Some think the losers are hiding in the tunnels, but they're chill for now. House Cipriani's the big energy boss, and with all that antimatter moving, pirates are sniffing around. Some reckon it's the old Earth gang causing trouble from the tunnels.
+
+> [!INFO] Mercury
+>**Gravity**: .37G 
+**Day Length**: 58.65 Earth Days 
+**Population**: 52k 
+**Key Locations**:
+> - **Specular Spread**: Solar panel facilities (House Cipriani)
+> - **Base 10**: Antimatter production (House Cipriani)
+> - **Tellerus Fields**: Major battle site between Earth remnants and the Coalition
+> - **Mercurial Gateway**: One of two Sol system jump rings
+> - **Mercurian Tunnels**: Connects habitats and facilities
+> - **Balor**: Surface habitat and vacation spot
+
+</div></div>
+
+
+## Venus
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Venus, a volcanic world with a toxic atmosphere, isn't a Coalition favorite but suits apostates seeking freedom. Gondolin's population struggles with space, and while they have a compiler, its existence is hush-hush to avoid Coalition attention. The Maiden, besides research, is a hub for clandestine activities.
+
+> [!INFO] Venus
+> **Gravity**: .91G 
+> **Day Length**: 243 Earth Days 
+> **Population**: 438k (413k in Gondolin, 25k on The Maiden) 
+> 
+> **Key Locations**:
+> - **Gondolin**: A hidden apostate city, the largest in the solar system, built by non-replicating Vulcan swarms. Overpopulated, with one-child laws. Led by SIM mayor Camber Roche, advocating for more SIM conversions. Mostly former Americans, Italians, Greeks, and Africans. Relies on black market trading and has a secret, functional compiler.
+> - **The Maiden**: An orbiting research station studying Venus and hosting experiments. Houses a weapons lab of House Dalianis and serves as a meeting point for covert deals with Gondolin.
+
+</div></div>
+
+
+## Luna
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Luna, humanity's first extraterrestrial touchpoint, now boasts several major cities and numerous stations. While cities like Serro represent scientific advancement and luxury, Asola reflects the struggles of the working class. Rho, the entertainment hub, hides a darker side of illegal activities and insurgent groups. Odysseus Station, a research beacon, recently faced a mysterious explosion, fueling speculations of espionage. Luna was the site of the first earthling terrorist attack.
+
+> [!info] Luna 
+> **Gravity**: .16G 
+> **Day Length**: 27.3 Earth Days 
+> **Population**: 8.5 mil 
+> 
+> **Key Locations**:
+> 
+> - **Serro**: Luna's largest city, House Silva's hub with secured labs and biotech research. A tourist spot with gravity-adjusted areas.
+> - **Asola**: Second largest, known for manufacturing and House Tsarya's facilities. Home to many apostates, with a challenging path to House membership.
+> - **Rho**: Entertainment capital, backed by Houses Cipriani and Silva. A mix of luxury and underground dealings, also a base for the Talons of Freedom.
+> - **Odysseus Station**: House Dalianis' space station for jump drive research. Recently faced an explosion, rumored to be a sabotage.
+
+</div></div>
+
+
+## Mars
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Since our first steps on Mars in 2054, the planet has seen a mix of achievements and challenges. From the impressive Olympus to the gritty streets of New Turin, Mars is certainly a showcase of the breadth of human experience. With the recent purist terror incident in Voltair, it's sparked a whole debate about ethics and identity in this new era.
 
 > [!info] Mars
 > 
@@ -29,46 +97,267 @@ Since our first steps on Mars in 2034, the planet has seen a mix of achievements
 </div></div>
 
 
+## Asteroid Belt
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-## Geography
-### North America 
-Formerly vibrant, North America is now a juxtaposition of desertified wastelands and icy tundras. The U.S. faces submerged coastlines, leading to internal migrations. Denver's domed Shelter stands out, offering sanctuary from severe weather. The Midwest's "The Grid" provides refuge zones, with Silicon Enclaves on the West Coast defending against rising seas. The East Coast, transformed by the sea, has morphed into floating city-states, each facing challenges from waterborne diseases. Roving bands of Apostate nomads traverse the wastelands, seeking resources and shelter. Areas near the old Great Lakes are nuclear fallout zones, avoided by most but sought after by certain nomads hunting for forgotten Coalition tech.
-### South & Latin America 
-The Amazon, reduced to half its original size, is now the vast "Amazon Sea," drastically altering the continent's topography. Coastal cities, like Caracas Port, serve as key external connections. The Andes, a haven amidst this change, hosts suspended cities. Further north, Mexico City, built around a gigantic water reservoir, has evolved into a fortress, and the Caribbean's sunken islands pose challenges for mariners. Areas near ancient Incan territories were devastated by nanite swarms, resulting in lost cities reclaimed by nature, with Apostates rumored to inhabit them.
-### Europe 
-The expansive Mediterranean has claimed much of southern Europe's land, converting Venice into the "Lost City" and making Rome and Athens significant coastal centers. London has dug deep, resulting in the "Undercroft" Shelter. With lowlands inundated, the Alps offer refuge, with cities like Zurich emerging as central hubs. Nuclear fallout zones, remnants from 21st-century conflicts, scar Eastern Europe. Apostate bands navigate these areas, leveraging the risk for opportunities.
-### Russia 
-Moscow, fortified against the cold, has evolved to withstand Siberia's approaching chill. Siberia, experiencing a climate shift, has become Russia's nucleus, linked by the vital Trans-Siberian route amidst fallout regions. Apostates traverse Siberia's vastness, often clashing with established communities over resources.
-### Asia
-Melting Himalayan glaciers have birthed the "Sky Islands" archipelago in Tibet. China's coastlines, especially Shanghai, have transformed into archipelagos. The interior witnesses massive migrations, and Beijing, now subterranean, operates as a grand Shelter network, with the Great Wall remnants indicating radiation-safe zones. India grapples with the Thar Desert's growth, directing migrations eastward. Cities like Kolkata have adapted as floating settlements, and the Himalayas, though less snow-covered, are lush highlands. Nanite swarms ravaged vast stretches of Southeast Asia, rendering them uninhabitable wastelands that are now the territory of hardened Apostate clans.
-### Middle East 
-Historically rich, the Middle East now contends with freshwater scarcity, converting oil fields to essential water wells. The Petra Pod, a subterranean city network, offers respite from the scorching sun. Jerusalem, despite neutrality, is surrounded by radiation zones, and ancient cities have diminished due to desertification. Nomadic Apostate tribes navigate the dunes, with tales of a prophet-like psychic figure emerging.
-### Africa
-Africa's landscape is dominated by the expanding Sahara. Coastal urban centers have become major refugee points, with Cape Town's Table Mountain emerging as a sanctuary. The Nile Shelter, juxtaposing old and new, stands along the Nile. The still-verdant Congo Basin, however, faces encroaching desertification. The vast Sahara has become the domain of nomadic Apostate tribes, with legends speaking of oases untouched by the world's decay.
-### Oceania 
-Australia, with its extinct fauna, sees the outback as a barren land punctuated by sanctuaries. Coastal cities are reinforced against the ocean and sun's harshness, and the "Gray Barrier" Reef stands as a muted testament to past vibrancy. The vast outback is frequented by Apostate caravans, seeking to dig up old Coalition tech amidst the desert heat.
-### Antarctica 
-Uniquely benefiting from global changes, Antarctica's formerly icy regions are now habitable, harboring secrets from the past and repurposed fallout shelters. Here, isolated Apostate groups have claimed regions, far from the conflicts of the warmer continents.
+The Asteroid Belt has long been a hub for mining, with Houses Silva and Dalianis leading the charge. Even with mining slowing down, many asteroids, with their vast tunnels, have become bases for pirates and other rogue groups. One such group, the Children of Adam, has been particularly troublesome. Then there's Tartarus, the galaxy's top-tier prison, and Ceres, which is essential for supplying water to Mars. Quite the mix of places and activities.
 
-## Politics
-It can pretty much be summarized as: Everything's a city-state now.
-
-1. **North America**: As the U.S. coastlines submerged, federal power diminished. Localized city-states, each governed by its own council or authority, emerged. Denver, with its advanced dome Shelter, became a significant power hub. Some areas, especially those affected by nuclear fallout, have local warlords or chieftains.
-2. **Europe**: With the expansion of the Mediterranean, the European Union dissolved, and city-states rose. The Alps became a significant political and trade nexus, and places like Zurich turned into major hubs. Nationalistic movements and coalitions of cities have formed new, smaller political entities.
-3. **Asia**:
-	- **China**: After the coastal regions transformed into archipelagos, China's centralized power fractured. Beijing remains a stronghold, but regional powers and corporate entities hold significant influence.
-	- **India**: Regional governments have gained more power, especially in areas like the Himalayas that are still habitable.
-4. **South America**: The transformation of the Amazon basin shifted the power dynamics. Coastal hubs like Caracas Port became influential, and the Andes region saw a coalition of high-altitude city-states form a new political entity.
-5. **Africa**: The expansion of deserts decentralized many national governments. Nile Shelter, due to its strategic and habitable position, became a major center of power, with a council governing the vast stretch. 
-6. **Middle East**: Freshwater scarcity led to a shift from oil-based power to water-based geopolitics. Some historical cities turned into independent city-states, while others formed alliances for mutual benefit and protection.
-7. **Oceania**: Australia's coastal cities fortified themselves and became independent entities. The Sydney Archipelago, for instance, is governed by a maritime council.
-8. **Antarctica**: Initially colonized by scientific communities and researchers, it gradually saw migrations due to its habitability. New settlements often have direct democracies, and there's a continuous debate over forming a unified Antarctic government.
-
-Throughout these regions, the rise of Apostate nomads added another layer of complexity. Some areas welcome them for trade and services, while others view them with suspicion. The presence of nuclear fallout zones and the devastation caused by nanite swarms have also led to the rise of militarized zones, quarantine areas, and specialized governance structures to handle these unique threats.
-
-Lastly, corporate influence cannot be underestimated. In many places, mega-corporations fill the void left by traditional governments, offering security and resources in exchange for control.
+> [!INFO]  Asteroid Belt
+> 
+> - **Gravity**: 0G
+> - **Day Length**: Varies
+> - **Population**: Roughly 60k–80k
+> 
+> **Key Locations**:
+> 
+> - **Raiding Launch Points**: Used by pirates and remnants for raid staging.
+> - **Tartarus**: A max-security prison by House Dalianis, floating between Mars and the belt.
+> - **Ceres**: Mars' main water source. Features Trident, an ice harvesting town, and Anapos Station, an orbital shipping hub.
 
 </div></div>
+
+
+## Jupiter
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+While Jupiter itself isn't a hotspot, its moon Europa is buzzing with intrigue. The oceans beneath Europa's icy crust are home to unique extraterrestrial life. The rapid evolution of these creatures has scientists at IT Alpha scratching their heads. And with recent station anomalies, there's more to unravel than ever before.
+
+> [!INFO] Jupiter 
+>**Gravity:** 2.36G
+>**Length of Day:** 9.8 hr
+>**Population:** 2.8 million (including its moons)
+>
+> **Key Locations:**
+> 
+> - **Europa's IT Alpha:** An underwater research hub run by Houses Cipriani and Silva, focused on studying Europa's mysterious aquatic life. Lately, the station's been facing power outages, mold issues, and a spike in cancer cases among its crew. The cause? Still a mystery.
+
+</div></div>
+
+
+## Saturn
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Saturn might seem uninteresting, but its rings and Titan moon are bustling with activity. Titan City, larger than Mercury, is a melting pot of House members and serves as a pivotal resource hub. However, beneath its industrious facade, the city grapples with stark divides and a heavy-handed security force, Lighthouse, ensuring order.
+
+> [!INFO] Saturn
+>**Gravity:** 1.06G
+>**Length of Day:** 10.2 hr
+>**Population:** 12.5 million
+> 
+> **Key Locations:**
+> - **Titan City:** Saturn's major hub on its largest moon, Titan. A bustling center for mining operations from Saturn's rings. The city's structure consists of concentric rings, with towering centers operated by different Houses. While the upper echelons manage resources, the lower levels are shadowed realms of labor and desperation.
+> - **The Rings:** A massive mining site for dust and water ice, operated by multiple Houses.
+
+</div></div>
+
+
+## Uranus
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Uranus, a distant gas giant, isn't a Coalition hotspot, making it perfect for The Colony's discreet existence. This patchwork community, blending old ships and makeshift structures, has a strong sense of unity. However, the looming shadow of the Children of Dionysus and the mysterious disappearance of the Red Herron ship have stirred unease among the Colonists. The future seems uncertain: will their next battle be with pirates or the Coalition?
+
+> [!INFO] Uranus
+> 
+>**Gravity:** 0.89G
+>**Length of Day:** 17.9 hr
+>**Population:** 84k
+> 
+> **Key Locations:**
+> 
+> - **The Colony:** A vast floating apostate enclave deep within Uranus' atmosphere, made up of interconnected ships and structures. The largest ship, The Kraken, stands out. The community thrives on unity and resourcefulness, but recent tensions with the Children of Dionysus, a pirate group, threaten their peace.
+
+</div></div>
+
+
+## Neptune
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Neptune, a chilly ice giant, isn't much of a hotspot itself. However, its arcs are mineral goldmines. The Naesock Hub, initially bustling with activity, has seen a shift. While its official operations have dwindled, the hub's lower levels have become a hive of covert activities, all under the watchful eye of House Silva.
+
+> [!INFO] Neptune
+> 
+>**Gravity:** 1.12G
+>**Length of Day:** 19.1 hr
+>**Population:** 43k
+> 
+> **Key Locations:**
+> 
+> - **Naesock Processing Hub:** Orbiting Triton, this hub once processed materials from Neptune's arcs. Now, while its upper levels remain official, the lower decks have become a bustling apostate enclave and black market hotspot, subtly overseen by House Silva.
+> - **The Arcs:** Bands of valuable minerals orbiting Neptune, richer in rare elements than similar structures elsewhere.
+
+</div></div>
+
+
+# Notable Exoplanets
+## Chengdan
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Colonized by Hiske Electronics for House Kimura, Chengdan is a planet of extremes due to its irregular rotation. With a wobbly axis, its seasons are intense, ranging from freezing winters to scorching summers. Despite this, life thrives in its evergreen jungles. The planet's inhabitants are resourceful, relying on mobile drilling platforms for water. New Tokyo, the main city, has expanded to its limits, leading to newer settlements. Recently, there have been reports of mysterious humanoid sightings in the wild, sparking intrigue and concern.
+
+> [!INFO] Chengdan
+>**Distance from Sol:** 14.5 LY
+>**Gravity:** .97G
+>**Population:** 9.3 mil
+> 
+> **Key Locations:**
+> - **New Tokyo:** House Kimura's primary settlement, housing over 70% of the population. A tech hub with vast plazas, parks, and many SIM citizens.
+> - **Kawako Platforms:** Mobile water mining platforms that shift with the planet's extreme seasons.
+> - **Libman Research Station:** House Silva's open research post, studying local wildlife.
+>
+>**Tourist Tips:**
+>- **Blurry Images:** Some adventurers claim to have spotted strange humanoids in the wilds
+>- **Eco-terrorism:** There's rising concern over water mining's environmental impact, with recent suspected sabotage incidents
+>- **Fork You:** A series of cyberattacks in New Tokyo, targeting SIM hosting systems, has the city on edge.
+
+</div></div>
+
+
+## Cygnus Alpha
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Colonized by Keppler Shipyards for its iron-rich crust, Cygnus Alpha is a harsh, cold planet with violent winds and a surface of razor-sharp iron blades. Settlements are built in canyons for protection, and a vast underground tunnel system has developed over time. The planet's history is marked by corporate rivalries, wars, and a fluctuating population. Currently, it's a hotspot for smugglers, pirates, and black market dealings.
+
+> [!INFO] Cygnus Alpha
+>**Distance from Sol:** 52 LY
+>**Gravity:** 1.04G
+>**Population:** 6.5 mil
+> 
+> **Key Locations:**
+> - **The Warehouse:** A secretive storage for House Dalianis, housing weapons and valuable resources.
+> - **The Warrens:** A vast tunnel network, home to apostates and a hub for black market activities.
+> - **APEX Test Site:** Cipriani's research facility, testing new APEX tech in isolation.
+> 
+> **Tourist Tips:**
+> - **Weaponized:** A mysterious satellite with mass drivers has both major Houses on edge, suspecting foul play.
+> - **Status Quo:** The arrival of the Talons of Freedom group in the Warrens has tensions rising, hinting at a potential conflict.
+> - **Missing Stock:** A combat frame's disappearance from the Warehouse has House Dalianis on a frantic search, with the Warrens as their prime suspect.
+
+</div></div>
+
+
+## Proch
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Proch, the first exoplanet colony, was a contested territory between the Federation and Alliance, leading to skirmishes that foreshadowed the Consolidation Wars. With a diverse ecosystem reminiscent of Earth's Mesozoic era, it's home to large reptiles and mammals. The cities, like Samara and Newcastle, are hubs of activity, while the wild terrains offer hunting opportunities, especially the prized "dragons."
+
+> [!INFO] Proch
+> **Distance from Sol:** 8.5 LY
+> **Gravity:** .87 G
+> **Population:** 11.7 mil
+> 
+> **Key Locations:**
+> - **Samara:** A bustling city with a zoo showcasing Prochian wildlife and offers guided hunts.
+> - **Akim Ranch:** A cattle ranch guarded by war frames due to predatory threats.
+> - **Newcastle:** A recovering fortress city, now a hub for Tsaryan industry and apostate workers.
+> 
+> **Tourist Tips:**
+> - **Survival of the Fittest:** Underground animal fights with betting opportunities.
+> - **Voracious:** A mysterious event where a ranch's inhabitants were devoured, leaving only tiny footprints.
+> - **Rumblings:** Rumors of a freedom fighter group causing unrest among the apostates.
+
+</div></div>
+
+
+## Sagitta
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Sagitta, a contingency plan during the Consolidation Wars, became a refuge post-Earth's fall. Initially lifeless, an asteroid impact introduced basic life and created a habitable chasm. With cities built within, it's now a multi-House hub, primarily under House Dalianis. The chasm's atmosphere is expanding, hinting at future planet-wide habitability.
+
+> [!INFO] Sagitta
+>**Distance from Sol:** 57.6 LY
+>**Gravity:** 1.22G
+>**Established:** 62 PS
+>**Population:** 6.2 mil
+> 
+> **Key Locations:**
+> - **Gruber Station:** Main mining hub within Sagitta's debris ring, ensuring the planet's self-sufficiency.
+> - **Sagitta’s Great Rift:** A massive impact-created chasm, home to the planet's population.
+> - **Site XS-306:** A mysterious site with a magnetic anomaly, heavily guarded by Dalianis.
+> 
+> **Tourist Tips:**
+> - **Praetorian:** A covert operative seeks a crew to uncover Dalianis's secretive research.
+> - **Breadcrumbs:** Missing probes hint at a covert jump gate activity; Dalianis navigators are on the case.
+> - **Desperate:** A vanished Vulcan swarm from Jinzhan's storage has the colony on edge, prompting a high-reward search.
+
+</div></div>
+
+
+## Sanctuary
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Sanctuary, a human colony distant from Coalition influence, was founded by apostates in 78 PS. Originally an underground colony named New Montreal, constructed from ships buried under the desert for stealth, the population has since grown. With overcrowding, debates arise between those advocating for surface expansion versus maintaining secrecy. The proposed surface city, Valhalla, awaits necessary resources like the Vulcan swarm. Sanctuary thrives on hydroponic farming and trades surplus for supplies. Their single compiler's security is paramount, with recent assassination attempts raising fears of Coalition intervention.
+
+> [!INFO] Sanctuary
+> **Distance from Sol**: 70 LY
+> **Gravity**: 1.07 G
+> **Population**: 9.4 mil
+> 
+> **Key Locations**:
+> - Valhalla: Proposed city site, current prefab shelters.
+> - New Montreal (“The Fold”): Main underground colony formed from grounded ships.
+> - Sanctuary’s Hydroponics Farms: Main food source, protected caves.
+> 
+> **Things to Do**:
+> - Investigate compiler assassination attempt.
+> - Establish supply routes for essential goods.
+> - Acquire a Vulcan swarm to address overcrowding.
+Shouye Distance from Sol: 56.3 LY Gravity: .88 G Established: 72 PS Population: 3.6 mil
+
+</div></div>
+
+
+## Shouye
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Shouye represents the last planet colonized by the Coalition, serving as a haven for descendants of Earth's Chinese populace. With its Earth-like environment and distinctively large insects, it's a unique and vibrant world. Initially rooted in the traditions of an older Chinese governance, it's now under the firm management of House Jinzhan, which has turned the planet into a primary food producer for the Coalition. However, visiting is a challenge; House Jinzhan enforces stringent access rules. With recent security breaches and rumors of old Chinese government factions causing disturbances, intrigue surrounds the planet. Reports suggest this faction, identified by a tiger wasp emblem, may be covertly trading in the valuable Vulcan swarms.
+
+> [!INFO] Shouye
+> **Distance from Sol**: 56.3 LY
+> **Gravity**: .88 G
+> **Population**: 3.6 mil
+> 
+> **Key Locations**:
+> - Icarus Hub Market: Main trading post in orbit.
+> - Feiwode Fields: Fertile agricultural land.
+> - Zhanshi Post: Major military training facility.
+> 
+> **Things to Do**:
+> - Investigate pirate attacks on food shipments.
+> - Uncover the mystery behind the Kimuran official's espionage.
+> - Trace origins of a nuclear device found on an APEX reactor.
+
+</div></div>
+
