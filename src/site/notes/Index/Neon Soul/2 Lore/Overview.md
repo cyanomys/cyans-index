@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:08:57.889-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:22:46.210-04:00"}
 ---
 
 > [!note] Taylre's Note
-> This is my version of Nova Praxis, which has **these main differences** from the book: 
+> This is my version of Nova Praxis. I actually wrote almost all of this by hand, with the exception of letting Chat GPT generate Earth's geopolitics for me and summarize the many pages of space geopolitics from Nova Praxis. *All the high-level stuff you need to know is in The State of Things and you can otherwise just ask me questions, but I would be extremely flattered if you read onward :3*
+
+> [!warning]- Differences from Nova Praxis Book
+> The Nova Praxis book is optionally available for your inspiration, just don't expect me to know everything in it and use this as your primary source for what is True. My version has these main differences: 
 > - [[Index/Neon Soul/3 Locations/Earth\|Earth]] is inhabited and they don't like the Coalition
-> - The [[Index/Neon Soul/2 Lore/Timeline\|Timeline]] is vastly different and more realistic in scale (if not particularly precise...don't think about it too hard, I certainly haven't.)
+> - The [[Index/Neon Soul/2 Lore/Timeline\|Timeline]] is different and a bit more realistic in scale (if not particularly precise...don't think about it too hard, I certainly haven't.) 
+> - The present is 2185 (add about 40 years to every nova praxis date referenced.)
 > - We understand our advanced technology & hacking is possible
 > - TAPs are a step between being a raw human and having a nanite brain (and provide compatibility with the Interface Zero rules)
-> - Simulacra and gene splicing exist/are a bigger deal
-> - This summary is actually concise and in a logical order 
-> 
-> I actually wrote almost all of this by hand, with the exception of letting Chat GPT generate Earth's geopolitics for me and summarize the many pages of space geopolitics from Nova Praxis. *All the high-level stuff you need to know is in The State of Things and you can otherwise just ask me questions, but I would be extremely flattered if you read onward :3*
-> 
-> (Also you can read the book if you want for inspiration, but don't expect me to know everything in it and use this as your primary source for what is True.)
+> - Simulacra and gene splicing exist/are a bigger deal (just like in Interface Zero)
+> - This summary is actually concise and in a logical order -- don't even try with the bullet points section in the book lmao
 
 Let's say you just woke up from being cryogenically frozen in 2023, and it's 2185. Here's what you'll need to know.
 # The State of Things
