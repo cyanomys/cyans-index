@@ -1,7 +1,13 @@
 body {
+   
    h1 
-   {
-   color: #7df9ff !important;
-  }
+      {
+      color: #7df9ff !important;
+     }
+
   .notelink.active-note { transform: unset; }
+   .sidebar-container:not(:has(.graph)) .toc-container {
+       max-height: unset;
+   }
+
 }
