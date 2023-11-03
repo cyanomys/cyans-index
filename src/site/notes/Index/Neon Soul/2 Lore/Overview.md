@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:42:26.122-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:55:31.594-04:00"}
 ---
 
 > [!note] Taylre's Note
-> This is my version of Nova Praxis. I actually wrote almost all of this by hand, with the exception of letting Chat GPT generate Earth's geopolitics for me and summarize the many pages of space geopolitics from Nova Praxis. *All the high-level stuff you need to know is in The State of Things and you can otherwise just ask me questions, but I would be extremely flattered if you read onward :3*
+> This is my version of Nova Praxis. I actually wrote almost all of this by hand, with the exception of letting Chat GPT generate Earth's geopolitics for me and summarize the many pages of space geopolitics from Nova Praxis. **All the high-level stuff you need to know is in The State of Things and you can otherwise just ask me questions, but I would be extremely flattered if you read onward :3**
 
 > [!warning]- Differences from Nova Praxis Book
 > The Nova Praxis book is optionally available for your inspiration, just don't expect me to know everything in it and use this as your primary source for what is True. My version has these main differences: 
