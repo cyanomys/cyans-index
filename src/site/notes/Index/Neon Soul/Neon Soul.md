@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","pinned":true,"updated":"2023-11-02T22:55:01.960-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","pinned":true,"updated":"2023-11-03T00:31:13.103-04:00"}
 ---
 
 ### Pages
@@ -9,6 +9,7 @@
 	- [[Index/Neon Soul/2 Lore/Overview\|Overview]]
 	- [[Index/Neon Soul/2 Lore/Timeline of Future Past\|Timeline of Future Past]]
 - **3 Locations**
+	- [[Index/Neon Soul/3 Locations/Earth\|Earth]]
 	- [[Index/Neon Soul/3 Locations/Galactic Gazetteer\|Galactic Gazetteer]]
 
 
