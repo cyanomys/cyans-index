@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T00:53:39.164-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:08:57.889-04:00"}
 ---
 
 > [!note] Taylre's Note
 > This is my version of Nova Praxis, which has **these main differences** from the book: 
 > - [[Index/Neon Soul/3 Locations/Earth\|Earth]] is inhabited and they don't like the Coalition
-> - The [[Index/Neon Soul/2 Lore/Timeline of Future Past\|Timeline of Future Past]] is vastly different and more realistic in scale (if not particularly precise...don't think about it too hard, I certainly haven't.)
+> - The [[Index/Neon Soul/2 Lore/Timeline\|Timeline]] is vastly different and more realistic in scale (if not particularly precise...don't think about it too hard, I certainly haven't.)
 > - We understand our advanced technology & hacking is possible
 > - TAPs are a step between being a raw human and having a nanite brain (and provide compatibility with the Interface Zero rules)
 > - Simulacra and gene splicing exist/are a bigger deal
