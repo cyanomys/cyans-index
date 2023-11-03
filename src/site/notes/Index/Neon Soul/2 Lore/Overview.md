@@ -1,11 +1,21 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T00:06:28.957-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T00:53:39.164-04:00"}
 ---
 
 > [!note] Taylre's Note
-> This is my version of Nova Praxis, which has the main difference that Earth is inhabited and that this summary is actually concise (unlike the book). I actually wrote almost all of this by hand, with the exception of letting Chat GPT generate Earth's geopolitics for me and summarize the pages of space information from Nova Praxis. I've tried really hard to keep this under a 25m read and put in lots of headings so it's skimmable. Pretty much every high-level thing you need to know is in The State of Things and you can otherwise ask me questions about stuff, but I would be extremely flattered if you read onward :3
+> This is my version of Nova Praxis, which has **these main differences** from the book: 
+> - [[Index/Neon Soul/3 Locations/Earth\|Earth]] is inhabited and they don't like the Coalition
+> - The [[Index/Neon Soul/2 Lore/Timeline of Future Past\|Timeline of Future Past]] is vastly different and more realistic in scale (if not particularly precise...don't think about it too hard, I certainly haven't.)
+> - We understand our advanced technology & hacking is possible
+> - TAPs are a step between being a raw human and having a nanite brain (and provide compatibility with the Interface Zero rules)
+> - Simulacra and gene splicing exist/are a bigger deal
+> - This summary is actually concise and in a logical order 
+> 
+> I actually wrote almost all of this by hand, with the exception of letting Chat GPT generate Earth's geopolitics for me and summarize the many pages of space geopolitics from Nova Praxis. *All the high-level stuff you need to know is in The State of Things and you can otherwise just ask me questions, but I would be extremely flattered if you read onward :3*
+> 
+> (Also you can read the book if you want for inspiration, but don't expect me to know everything in it and use this as your primary source for what is True.)
 
-Let's say you just woke up from being cryogenically frozen in 2023, and it's 2223. Here's what you'll need to know.
+Let's say you just woke up from being cryogenically frozen in 2023, and it's 2185. Here's what you'll need to know.
 # The State of Things
 The Singularity happened. That is to say, a sentient super-intelligent AI woke up, advanced human understanding of science by millenia in just a few months.  But before it could solve world peace or the climate change problem for us, it got taken out by a solar flare, and all the kings horses and all the kings men couldn't put humpty dumpty back together again. And society collapsed for a while. 
 
@@ -74,9 +84,9 @@ Everyone who's a Coalition citizen has something called a Rep Rating, which is l
 
 Everyone who's not a coalition citizen -- if you're in space or were born in space, that's called being an Apostate, because the Houses don't like non-Coalition citizens, but if you're from Earth that's called being an Earthling -- they use cryptocurrencies of varying legalities. The most popular one is called Bits. Bits are super illegal in Coalition space but also real common if you know the right people.
 
-Regardless, rep rating isn't exactly...non-scarce. It's artificially scarce. When times are tough -- or when the Coalition needs to crack down and get more control -- rep bumps aren't worth quite as much, or might be a little harder to earn. Weird how that happens. And somehow the Houses still always have something to be fighting about behind closed doors (doing their bidding is a good way to increase your rep rating, too.) But, in reality, up here in space most people are fed, sheltered, have access to the extranet, and don't need to worry all that much about survival. It may not be a glamorous existence but its a living. Folks find other stuff to do with their time, if they have the rep for it. You're allowed to start subsidiary corps of the Houses you're in, so some people do that, or pursue other sorts of things, like art, or criminal activity.
+Regardless, rep rating isn't exactly...non-scarce. It's artificially scarce. When times are tough -- or when the Coalition needs to crack down and get more control -- rep bumps aren't worth quite as much, or might be a little harder to earn. Weird how that happens. And somehow the Houses still always have something to be fighting about behind closed doors (doing their bidding is a good way to increase your rep rating, too.) But, in reality, up here in space most people are fed, sheltered, have access to the extranet, and don't need to worry all that much about survival. It may not be a glamorous existence but its a living. Folks find other stuff to do with their time, if they have the rep for it. You're allowed to start or work for subsidiary corps of the Houses you're in, so some people do that. Or they find other pursuits, like art, or criminal activity.
 # Earth
-Unless you're on earth, though, like I said. On Earth they don't have enough of anything. On earth everybody slaves for barely enough to eat, a barely potable water ration, and a bed in an apartment packed six to a room. They have the remains of old Earth governments, but they're more like overrun hospitals triaging their dying Shelters. Most of the stuff on earth is made by old-fashioned earth corps, but they trade for raw materials and sometimes finished goods with the coalition too, in exchange for running the Coalition's worst prisons.
+Unless you're on Earth, though, like I said. On Earth they don't have enough of anything. On earth everybody slaves for barely enough to eat, a barely potable water ration, and a bed in an apartment packed six to a room. They have the remains of old Earth governments, but they're more like overrun hospitals triaging their dying Shelters. Most of the stuff on earth is made by old-fashioned earth corps, but they trade for raw materials and sometimes finished goods with the coalition too, in exchange for running the Coalition's worst prisons.
 
 Well, and then there's the few people who don't live in the shelters. They're called Nomads. Lots of em are Apostates and escaped criminals -- they dare the weather and radiation and nanites and god-knows-what-else for the hopefully sweet taste of freedom. I mean, it better be sweet. I wouldn't do it.
 ### The Coalition and Earth
@@ -86,11 +96,11 @@ We have a bit of a problem these days with what the coalition calls "earth terro
 
 All that could be changing soon, though. Recently, an apostate and earth-refugee colony called Sanctuary has lashed out against the Coalition, and they've already managed to take one of the Coalition's outer colonies. Some fear (or hope) they'll come for Sol next.
 ### Earth Geopolitics
-Geographically, the planet is dramatically altered. North America is divided between frozen tundras and desertified regions, with shelters like Denver standing resilient. The Amazon has become a vast sea, reshaping South America, while the Mediterranean's growth has redefined Europe's coasts. Asia's topography is marked by "Sky Islands," and Africa grapples with desertification yet finds solace in the fortified Nile Shelter. The Middle East prioritizes water over oil, with underground cities as refuges. Oceania's landscape is mostly underwater with a few fortifications sticking out of the ocean, and Antarctica emerges as a new habitat for the intrepid.
+Geographically, [[Index/Neon Soul/3 Locations/Earth\|Earth]] is dramatically altered. **North America** is divided between frozen tundras and desertified regions, with shelters like Denver standing resilient. The Amazon has become a vast sea, reshaping **South America**, while the Mediterranean's growth has redefined **Europe**'s coasts. **Asia**'s topography is marked by "Sky Islands," and **Africa** grapples with desertification yet finds solace in the fortified Nile Shelter. The **Middle East** prioritizes water over oil these days, with underground cities as refuges. **Oceania**'s landscape is mostly underwater with a few fortifications sticking out of the ocean, and **Antarctica** emerges as a new habitat for the intrepid.
 
-Politically, national governments have given way to independent city-states and regional coalitions. The U.S. is a mosaic of local authorities, Europe's unity has dissolved into city-led microstates, and Asia sees power decentralized with regional strongholds. South American cities gain prominence with their coastal lifelines, Africa's power is concentrated around resource-rich zones, and the Middle East adjusts to water-centric politics. Australia and Antarctica foster independent democratic communities, while roving Apostate bands, nuclear fallout regions, and nanite-devastated lands bring challenges and opportunities. Mega-corporations, especially those that run the Coaltiion's prisons, exert influence, filling the gaps of traditional governance with private authority. It's a wonder how they do it, but people get by.
+Politically, national governments have given way to independent city-states and regional coalitions almost everywhere, except in Antarctica, which has a proper democracy.  Earth-based corporations, especially those that run the Coaltiion's prisons, exert a lot of influence everywhere. They sort of fill the gaps of traditional governance with private authority. Warlike bands of Apostates make their own politics too, I suppose. It's a wonder how they do it, but people get by.
 # Space
-Explaining all of space is a pretty tall order. There is a *lot* of space. I'm pretty sure I couldn't even point to Cygnus Alpha on a map. So here's the [[Index/Neon Soul/3 Locations/Galactic Gazetteer\|Galactic Gazetteer]] I picked up on my way in, but I'll give you a real high level overview for now.
+Explaining all of space is a pretty tall order. There is a *lot* of space. I'm pretty sure I couldn't even point to Cygnus Alpha on a map. So here's the [[Index/Neon Soul/3 Locations/Galactic Gazetteer\|Galactic Gazetteer]] I picked up on my way in if you want to do some reading on your way to the hab, but I'll give you a real high level overview for now.
 
 ## Sol
 
