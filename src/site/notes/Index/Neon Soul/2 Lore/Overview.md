@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:55:31.594-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/2 Lore/Overview.md","permalink":"/neon-soul/2-lore/overview/","updated":"2023-11-03T01:55:46.319-04:00"}
 ---
 
 > [!note] Taylre's Note
