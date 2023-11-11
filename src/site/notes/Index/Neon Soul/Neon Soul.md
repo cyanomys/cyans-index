@@ -1,20 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","hide":true,"updated":"2023-11-03T01:54:16.851-04:00"}
+{"dg-publish":true,"dg-path":"Neon Soul/Neon Soul.md","dg-permalink":"neon-soul","permalink":"/neon-soul/","hide":true,"updated":"2023-11-11T15:24:09.740-05:00"}
 ---
 
+# Pages
 
-- **1 Campaign Log**
-	- [[Index/Neon Soul/1 Campaign Log/Characters\|Characters]]
-	- [[Index/Neon Soul/1 Campaign Log/Quotes\|Quotes]]
-	- [[Index/Neon Soul/1 Campaign Log/Sessions\|Sessions]]
-- **2 Lore**
-	- [[Index/Neon Soul/2 Lore/Overview\|Overview]]
-	- [[Index/Neon Soul/2 Lore/Timeline\|Timeline]]
-- **3 Locations**
-	- [[Index/Neon Soul/3 Locations/Earth\|Earth]]
-	- [[Index/Neon Soul/3 Locations/Galactic Gazetteer\|Galactic Gazetteer]]
-- **4 Resources**
-	- [[Index/Neon Soul/4 Resources/Links\|Links]]
+- [[Index/Neon Soul/Characters\|Characters]]
+- [[Index/Neon Soul/Links\|Links]]
+- [[Index/Neon Soul/Quotes\|Quotes]]
+- [[Index/Neon Soul/Sessions\|Sessions]]
 
 
-
+# Campaign Pitches
